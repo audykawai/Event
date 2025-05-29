@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -93,7 +93,7 @@
         }
         
         .workshop-card {
-            flex: 1 1 300px;
+            flex: 1 1 500px;
             background: white;
             border-radius: 12px;
             padding: 1.5rem;
